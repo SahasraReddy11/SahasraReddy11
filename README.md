@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahasra Reddy</h1>
 <h3 align="center">A student committed to continuous learning and staying updated with the latest industry trends in cyber security, block chain and Data Science.</h3>
 
-- 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **sahasramandadi@gmail.com**
 
